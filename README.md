@@ -1,2 +1,2 @@
-# testing_abapgit_private_1
+# testing_abapgit_public_1
 private github repository for exploratory testing of abapgit features
